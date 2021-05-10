@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.rallytac.engage.engine</groupId>
+  <artifactId>engage-engine-release</artifactId>
+  <version>1.210.9048</version>
+  <name>Rally Tactical's Engage Engine for Android</name>
+</project>
